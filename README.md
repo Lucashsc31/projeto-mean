@@ -1,2 +1,2 @@
 # projeto-mean
-Projeto MEAN
+Projeto MEAN de estudos para Fiap-ON EAD (ADS)
